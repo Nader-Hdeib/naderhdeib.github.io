@@ -35,6 +35,7 @@ social:
   email: example@domain.com # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
+    - https://github.com/Nader_Hdeib # change to your GitHub homepage
 
 # Site Verification Settings
 webmaster_verifications:
